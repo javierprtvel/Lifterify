@@ -1,2 +1,2 @@
-# lifterify
-REST API for weightlifting training information, scheduling and logging
+# Lifterify
+Weightlifting training information, scheduling, logging and tracking.
